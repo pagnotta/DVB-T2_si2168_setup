@@ -20,7 +20,7 @@ But it turnded out to be more complex than this. A major pitfall is, that the Od
 
 I tried my luck with the custom built [LibreELEC 7.1.0 - media_build edition](http://forum.odroid.com/viewtopic.php?f=144&t=22887) on the Odroid-C2, since it has drivers for the si2168 chipset. But it uses Kodi 16 and produces only [choppy DVB-T2 playback](http://www.kodinerds.net/index.php/Thread/52568-ODroid-C2-TVHeadend-HD-LiveTV) which is supposedly fixed with Kodi 17.
 
-*__Update:__ There are now Kodi Krypton based Libreelec editions available in the [Odroid forum](http://forum.odroid.com/viewforum.php?f=144) which allow using the USB stick directly connected to the Odroid-C2 and produce flawless DVB-T2 playback.*
+*__Update:__ There are now Kodi Krypton based LibreELEC editions available in the [Odroid forum](http://forum.odroid.com/viewforum.php?f=144) which allow using the USB stick directly connected to the Odroid-C2 and produce flawless DVB-T2 playback.*
 
 So I was left with the options to
 
