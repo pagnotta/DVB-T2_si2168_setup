@@ -111,7 +111,7 @@ But be aware that every place in Germany has it's own frequency. You can look up
 
 ### 2.3 Odroid-C2 (TVHeadend client) setup
 
-* create a SD card using the [LibreELEC USB-SD Creator](https://wiki.libreelec.tv/index.php?title=LibreELEC_USB-SD_Creator). Make sure to choose the latest 7.90 Alpha release when creating the SD card!  
+* create a SD card using the [LibreELEC USB-SD Creator](https://wiki.libreelec.tv/index.php?title=LibreELEC_USB-SD_Creator). Make sure to choose the latest ~~7.90 Alpha~~ release when creating the SD card!  
 
 * After basic setup of LibreELEC on the Odroid-C2, install the TVHeadend HTSP Client to be found under ``Add-Ons > Download Add-Ons > LibreELEC Add-ons > PVR Clients``
 
