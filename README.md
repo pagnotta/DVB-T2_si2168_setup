@@ -22,12 +22,7 @@ But it turnded out to be more complex than this. A major pitfall is, that the Od
 
 *__Update:__ There are now Kodi Krypton based LibreELEC editions available in the [Odroid forum](http://forum.odroid.com/viewforum.php?f=144) which allow using a si2168 based USB stick directly connected to the Odroid-C2 and produce flawless DVB-T2 playback.*
 
-So I was left with the options to
-
-* spend more money and buy a different USB-stick which is supported by the old kernel or has Userspace drivers
-* find a way to somehow get the DVB-T2 signal from the si2168 stick into the Odroid-C2 which runs a LibreELEC Alpha with Kodi 17
-
-I didn't want to spend more money, so I opted for the latter. Since the RPI2 runs on a more recent kernel (4.4) it can handle the si2168 chipset. So I decided to reuse it in my DVB-T2 setup, and install the TVHeadend server on the RPI2, which would send the DVB-T2 stream to the TVHeadend client on the Odroid-C2:
+Since the RPI2 runs on a more recent kernel (4.4) it can handle the si2168 chipset. So I decided to reuse it in my DVB-T2 setup, and install the TVHeadend server on the RPI2, which would send the DVB-T2 stream to the TVHeadend client on the Odroid-C2:
 
 ``DVB-T2 signal -> si2168 USB-stick -> TVHeadend server (RPI2) -> TVheadend client (Odroid-C2) -> TV``
 
