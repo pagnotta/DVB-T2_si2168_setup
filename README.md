@@ -109,7 +109,7 @@ Constellation: QAM/AUTO
 Delivery System: DVBT2
 ```
 
-But be aware that every place in Germany has it's own frequency. You can look up the frequency for your location [here](http://www.dehnmedia.de/?page=dvbt2&subpage=demokanal).
+But be aware that every place in Germany has it's own frequency. You can look up the frequency for your location ~~[here](http://www.dehnmedia.de/?page=dvbt2&subpage=demokanal)~~ [here](http://www.dehnmedia.de/?page=sender&subpage=tsender)
 
 ### 2.3 Odroid-C2 (TVHeadend client) setup
 
